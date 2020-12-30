@@ -80,14 +80,14 @@ Google Voting Poll Method (DarkSecDevelopers)
 30) Yandex Login Page  
 
 Find Here Template Here Installation : 
-$ apt update 
-$ apt install git php openssh curl -y 
-$ git clone https://github.com/htr-tech/zphisher 
-$ cd zphisher 
-$ chmod +x zphisher.sh 
-$ bash zphisher.sh 
+ $ apt update 
+ $ apt install git php openssh curl -y 
+ $ git clone https://github.com/htr-tech/zphisher 
+ $ cd zphisher 
+ $ chmod +x zphisher.sh 
+ $ bash zphisher.sh 
 
 Single Line Code : 
-apt update &amp;&amp; apt install git php curl openssh -y &amp;&amp; git clone https://github.com/htr-tech/zphisher &amp;&amp; cd zphisher &amp;&amp; chmod +x zphisher.sh &amp;&amp; bash zphisher.sh
+ $ apt update &amp;&amp; apt install git php curl openssh -y &amp;&amp; git clone https://github.com/htr-tech/zphisher &amp;&amp; cd zphisher &amp;&amp; chmod +x zphisher.sh &amp;&amp; bash zphisher.sh
 
 Thank You! For more Commands just follow me in GitHub! And you can request a command by just commenting!❤️
