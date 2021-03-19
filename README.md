@@ -90,4 +90,6 @@ $ bash zphisher.sh
 Single Line Code : 
  $ apt update &amp;&amp; apt install git php curl openssh -y &amp;&amp; git clone https://github.com/htr-tech/zphisher &amp;&amp; cd zphisher &amp;&amp; chmod +x zphisher.sh &amp;&amp; bash zphisher.sh
 
+![wf](https://user-images.githubusercontent.com/75029023/111819240-14bd3a80-891b-11eb-84b7-9848c5c724cc.gif)
+
 Thank You! For more Commands just follow me in GitHub! And you can request a command by just commenting!❤️
