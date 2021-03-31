@@ -1,4 +1,4 @@
-### 𝐙𝐏𝐇𝐈𝐒𝐇𝐄𝐑
+### ༒︎᯾𝐙𝐏𝐇𝐈𝐒𝐇𝐄𝐑᯾༒︎
 
 > Zphisher is an upgraded form of Shellphish. 
 > The main source code is from Shellphish . 
@@ -8,7 +8,7 @@
 > Zphisher has 37 Phishing Page Templates ; 
 > including Facebook , Twitter &amp; Paypal . It also has 4 Port Forwarding Tools .
 
-### 𝙵𝚒𝚗𝚍 𝚃𝚎𝚖𝚙𝚕𝚊𝚝𝚎 𝙷𝚎𝚛𝚎 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝙿𝚑𝚒𝚜𝚑𝚒𝚗𝚐 𝙿𝚊𝚐𝚎𝚜
+### ✰𝙵𝚒𝚗𝚍 𝚃𝚎𝚖𝚙𝚕𝚊𝚝𝚎 𝙷𝚎𝚛𝚎 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝙿𝚑𝚒𝚜𝚑𝚒𝚗𝚐 𝙿𝚊𝚐𝚎𝚜✰
 > 1) Facebook:  
 > * Facebook Normal Login Page 
 > * Fake Security Login Method (DarkSecDevelopers) 
@@ -79,7 +79,7 @@
 
 > 30) Yandex Login Page  
 
-### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 :
+### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ :
 ```
 $ apt update
 ```
@@ -98,7 +98,7 @@ $ chmod +x zphisher.sh
 ```
 $ bash zphisher.sh
 ```
-### 𝚂𝙸𝙽𝙶𝙻𝙴 𝙻𝙸𝙽𝙴 𝙲𝙾𝙳𝙴 : 
+### ✰𝚂𝙸𝙽𝙶𝙻𝙴 𝙻𝙸𝙽𝙴 𝙲𝙾𝙳𝙴✰ : 
 ```
  $ apt update &amp;&amp; apt install git php curl openssh -y &amp;&amp; git clone https://github.com/htr-tech/zphisher &amp;&amp; cd zphisher &amp;&amp; chmod +x zphisher.sh &amp;&amp; bash zphisher.sh
 ```
